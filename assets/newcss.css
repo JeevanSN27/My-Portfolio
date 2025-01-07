@@ -410,7 +410,7 @@ img {
 /*===================== About ==================*/
 .about__img {
   height: 300px;
-  width: 70px;
+  width: 50px;
   object-fit: cover; /* Use cover to ensure the image covers the container */
   border: 3px solid #081f88;
   box-shadow: 2px 10px 7px #6860da;
